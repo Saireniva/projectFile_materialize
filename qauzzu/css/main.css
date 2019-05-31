@@ -5,7 +5,6 @@
   min-height: 600px;
   color: rgb(255, 255, 255);
   
-  
 }
 
 .main-header .showcase {
@@ -61,4 +60,17 @@
   .section-podcast{
     min-height: 240px;
   }
+}
+
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: rgb(255, 255, 255);
+}
+
+/* solutions */
+.main-header-inner .showcase {
+  padding-top: 100px;
 }
